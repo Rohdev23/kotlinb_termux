@@ -2,7 +2,7 @@
 Script para compilar arquivos Kotlin no Termux
 
 chmod +x kotlinb
-Mova para $PREFIX/bin \n
+mova para $PREFIX/bin
 $ mv kotlinb $PREFIX/bin
 
 Para executar
