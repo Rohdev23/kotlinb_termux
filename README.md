@@ -1,8 +1,7 @@
 # kotlinb
-**Como usar**.
-Script para compilar arquivos Kotlin no Termux
+**Script para compilar arquivos Kotlin no Termux**
 
-chmod +x kotlinb
+`chmod +x kotlinb`
 mova para $PREFIX/bin
 `mv kotlinb $PREFIX/bin`
 
