@@ -1,4 +1,5 @@
 # kotlinb
+Como usar
 Script para compilar arquivos Kotlin no Termux
 
 chmod +x kotlinb
