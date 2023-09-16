@@ -11,6 +11,7 @@ Copie ou mova para $PREFIX/bin dessa forma poderar usar de qualquer lugar.
 
 Faça `mv kotlinb $PREFIX/bin`
 
-**Para usar basta fazer**.
+**Para usar basta fazer**:
 
-`kotlinb arquivo.kt`
+`kotlinb arquivo.kt` e ser feliz!!!
+
