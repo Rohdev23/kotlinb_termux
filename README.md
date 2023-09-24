@@ -1,7 +1,7 @@
 # kotlinb
 **Script para compilar arquivos Kotlin no Termux.**
 
-`cd  kotlinb_termux` para entrar no diretório. 
+`cd kotlinb_termux` para entrar no diretório. 
 
 Faça `chmod +x kotlinb.sh` para dar permissões ao script.
 
